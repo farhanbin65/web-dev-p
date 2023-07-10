@@ -77,3 +77,44 @@ margin-bottom: 0px;
 .grt{
     margin-bottom: 5px;
 }
+main{
+    max-width: 2000px;
+    justify-content: center;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px;
+    color: #181818;
+    background-color: #FFF8F3;
+    margin: 130px;
+    
+}
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight:700 ;
+    line-height: normal;
+}
+
+.section-descriptio{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    width: 909px;
+    flex-direction: column;
+    flex-shrink: 0;
+
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.about-info{
+    text-align: center;
+}
